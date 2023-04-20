@@ -7,6 +7,11 @@ Recommendation systems use a variety of techniques, such as collaborative filter
 Recommendation systems are commonly used in e-commerce, online advertising, streaming services, and social media platforms. They have become increasingly popular due to their ability to enhance user engagement and improve customer satisfaction.
 
 
+
+
+Dataset used - ratings.csv , movies.csv 
+
+
 Report File :- Reportfile.docx
 Include all details of flow of recommender system
 
